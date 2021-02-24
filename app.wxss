@@ -1,0 +1,11 @@
+@import "./styles/iconfont/iconfont.wxss";
+@import "./styles/base.wxss";
+
+page {
+  --themeColor: #eb4450;
+  font-size: 28rpx;
+}
+
+image {
+  width: 100%;
+}
